@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Nordic EESSI Community
 
 You can use the [editor on GitHub](https://github.com/torstenk/nordic-eessi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
