@@ -5,5 +5,5 @@ community to support each others efforts to become EESSI-enabled by June 2019.
 
 This is the humble start...
 
-![useful image]({{ site.url }}/assets/NO.png) 
+![Norway]({{ site.url }}/assets/NO.png) 
 Norwegian EESSI https://github.com/navikt/eessi
